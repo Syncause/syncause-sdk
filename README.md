@@ -1,1 +1,1 @@
-# syncause-repo
+# syncause-sdk
